@@ -96,6 +96,6 @@ footer{
 
 }
 
-@media (max-width: 600px){
+@media Screen and (max-width: 600px){
 
 }
