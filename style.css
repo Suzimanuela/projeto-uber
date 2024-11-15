@@ -107,7 +107,7 @@ footer{
 .logoeleselas{
 
     max-width: 50%;
-   
+    position: fixed;
 }
 
 }
