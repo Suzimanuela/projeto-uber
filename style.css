@@ -96,7 +96,7 @@ footer{
 
 }
 
-@media Screen and (max-width:1050px){
+@media Screen and (max-width:768px){
    .sub-titulo {
     position: relative;
       top: 150px;
