@@ -115,4 +115,9 @@ footer{
     height: 100%;
     position: fixed;
 }
+
+.item {
+    width: 100%;
+    flex-direction: column;
+}
 }
