@@ -96,6 +96,11 @@ footer{
 
 }
 
-@media Screen and (max-width: 600px){
+@media Screen and (max-width:768px){
+    .item {
+        width: 100%;
+        flex-direction: column;
+    }
+
 
 }
