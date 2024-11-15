@@ -96,18 +96,18 @@ footer{
 
 }
 
-@media Screen and (max-width:1100px){
+@media (max-width:1050px){
    .sub-titulo {
     position: relative;
       top: 150px;
     left: 40px; 
-    font-size: 20px;
+    font-size:20;
     
    }
-.logoeleselas{
 
-    max-width: 50%;
+   .logoeleseelas {
     position: fixed;
-}
+    width: 100%;
+   }
 
 }
