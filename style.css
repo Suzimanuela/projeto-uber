@@ -109,9 +109,13 @@ footer{
    .logoeleseelas {
     position: fixed;
     flex-direction: column;
-    width: 50px;
+   
    }
 
+
+    #flutuante {
+        width: 50px;
+    }
 }
    
 
