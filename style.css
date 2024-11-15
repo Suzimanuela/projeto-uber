@@ -52,6 +52,9 @@ html {
 .sub-titulo {
     color: white;
     font-size: 27px;
+    position: relative;
+    top:150px;
+    left: 40px;
 }
 
 
@@ -96,11 +99,8 @@ footer{
 
 }
 
-@media Screen and (max-width:768px){
-    .item {
-        width: 100%;
-        flex-direction: column;
-    }
+@media Screen and (max-width:690px){
+   
 
 
 }
